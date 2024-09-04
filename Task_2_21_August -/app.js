@@ -9,5 +9,5 @@ student1.forEach(name=>{
  tdata.textContent = name;
  row.appendChild(tdata);
  tblbody.appendChild(row);
-});
+}
 
